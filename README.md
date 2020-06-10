@@ -1,6 +1,8 @@
 # NuxtTodo
 
-> My super-duper Nuxt.js project
+> My super-duper TODOAPP Nuxt.js project
+
+Live: https://nuxttodoapp-49a0f.web.app/#
 
 ## Build Setup
 
